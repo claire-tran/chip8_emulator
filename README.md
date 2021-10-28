@@ -14,6 +14,7 @@
   - Graphics: a 64x32 monochrome display
   - Input: 16 keys input
   - Opcode: CHIP-8 has 35 opcodes, which are all two bytes long and stored big endian
+  
 
 ## Screenshot
 ### Invaders
@@ -21,6 +22,7 @@
 
 ### UFO
 ![UFO](https://lh3.googleusercontent.com/d/1xqu0Rbn-5ET8YGUfwuc8oQ3B1fx5FeOK)
+
 
 ## How to run it
   - By using the following command:
