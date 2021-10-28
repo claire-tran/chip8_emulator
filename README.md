@@ -15,9 +15,16 @@
   - Input: 16 keys input
   - Opcode: CHIP-8 has 35 opcodes, which are all two bytes long and stored big endian
 
+## Screenshot
+### Invaders
+![Invaders](https://lh3.googleusercontent.com/d/1TaVHPxEpEAwWgn01VMeZmdO6RAEmj2Qy)
+
+### UFO
+![UFO](https://lh3.googleusercontent.com/d/1xqu0Rbn-5ET8YGUfwuc8oQ3B1fx5FeOK)
+
 ## How to run it
   - By using the following command:
     ```
     cargo run roms/game_name
     ```
-  With ```game_name``` is the game you chose. All game files will be at the ```roms``` folder
+  With ```game_name``` is the game you chose. All the game files will be at the ```roms``` folder
