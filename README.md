@@ -29,4 +29,4 @@
     ```
     cargo run roms/game_name
     ```
-  With ```game_name``` is the game you chose. All the game files will be at the ```roms``` folder
+  With ```game_name``` is the game you chose. All the game files is in the ```roms``` folder
