@@ -117,6 +117,7 @@ impl Emulator {
                     self.v_registers[idx] = self.ram[idx + i];
                 }
             }
+
             //FX55, store V0 - VX into I
             (0xF, _, 5, 5) => {
                 let x = digit2;
