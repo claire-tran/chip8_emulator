@@ -19,6 +19,6 @@ jobs:
     - name: Format Check
       run: cargo fmt --all -- --check
     - name: Clippy Check
-      run: cargo clippy --all-targets --all-features -- -D warnings
+      run: cargo clippy --all-targets --all-features -- -D warnings -D clippy::all
     - name: Run tests
       run: cargo test --verbose
